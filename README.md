@@ -1,6 +1,3 @@
-"# abidxcrescent.github.io" 
-# abidxcrescent.github.io
-
 ![logo](https://github.com/abidxcrescent/abidxcrescent.github.io/blob/main/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)
 <h1 align="center">Hi 👋, I'm Abid Crescent</h1>
 <h3 align="center">I am Software Engineer who loves testing</h3>
